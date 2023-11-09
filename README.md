@@ -1,10 +1,10 @@
 <div align="center">
 <br><br>
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width="33%" />
+    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width="41%" />
 </a>
 <a href="https://github.com/kayheypark/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" width="37.2%" />
 </a>
 
 ## Skills
