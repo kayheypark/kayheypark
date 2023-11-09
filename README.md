@@ -9,6 +9,7 @@
 
 ### Backend
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-FFFFFF?style=flat&logo=php&logoColor=777BB4"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nodejs-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat&logo=springboot&logoColor=6DB33F"/></a>
 
 #### Server
