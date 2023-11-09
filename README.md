@@ -1,5 +1,7 @@
-## Skills
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kayheypark&theme=dark)](https://git.io/streak-stats)
+[![kayheypark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark)](https://github.com/kayheypark/github-readme-stats)
 
+## Skills
 ### Frontend
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-FEFEFE?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FEFEFE?style=flat-square&logo=typescript&logoColor=3178C6"/></a>
