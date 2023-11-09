@@ -1,13 +1,11 @@
 <div align="center">
-
-
+<br><br>
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width="33%" />
 </a>
 <a href="https://github.com/kayheypark/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" width="30%" />
 </a>
-
 
 ## Skills
 ### Frontend
@@ -48,7 +46,7 @@
 
 ---
 
-
+<br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayheypark&theme=react" width=100% />
