@@ -1,25 +1,38 @@
 ## Skills
 
 ### Frontend
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=61DAFB"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=3178C6"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-FFFFFF?style=flat&logo=jquery&logoColor=0769AD"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-FFFFFF?style=flat&logo=php&logoColor=CC6699"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-FFFFFF?style=flat&logo=styledcomponents&logoColor=DB7093"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-FFFFFF?style=flat&logo=webpack&logoColor=#8DD6F9"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-FEFEFE?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FEFEFE?style=flat-square&logo=typescript&logoColor=3178C6"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-FEFEFE?style=flat-square&logo=jquery&logoColor=0769AD"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-FEFEFE?style=flat-square&logo=php&logoColor=CC6699"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-FEFEFE?style=flat-square&logo=styledcomponents&logoColor=DB7093"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-FEFEFE?style=flat-square&logo=webpack&logoColor=#8DD6F9"/></a>
 
 ### Backend
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-FFFFFF?style=flat&logo=php&logoColor=777BB4"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nodejs-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat&logo=springboot&logoColor=6DB33F"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-FEFEFE?style=flat-square&logo=php&logoColor=777BB4"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nodejs-FEFEFE?style=flat-square&logo=nodedotjs&logoColor=339933"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-FEFEFE?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
 
 #### Server
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache-FFFFFF?style=flat&logo=apache&logoColor=D22128"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FEFEFE?style=flat-square&logo=linux&logoColor=FCC624"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache-FEFEFE?style=flat-square&logo=apache&logoColor=D22128"/></a>
+
 
 #### RDBMS
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftSqlServer-FFFFFF?style=flat&logo=microsoftsqlserver&logoColor=CC2927"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-FEFEFE?style=flat-square&logo=mysql&logoColor=4479A1"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftSqlServer-FEFEFE?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/></a>
+
+#### Cloud
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AzurePipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AmazonAWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
 
 ### Tools
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-FFFFFF?style=flat&logo=visualstudiocode&logoColor=007ACC"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/intellijidea-FFFFFF?style=flat&logo=intellijidea&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-FEFEFE?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/intellijidea-FEFEFE?style=flat-square&logo=intellijidea&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/DBeaver-000000?style=flat-square&logo=&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-FEFEFE?style=flat-square&logo=slack&logoColor=4A154B"/></a>
+
+## Contact
+<a href="mailto:kayheypark@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
