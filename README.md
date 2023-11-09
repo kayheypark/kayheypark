@@ -1,7 +1,7 @@
 <div align="center">
     
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KAYHEYPARK&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I%20am&fontAlignY=40&desc=a%20person%20craves%20knowledge&descAlignY=61&descAlign=62&fontSize=90" />
 <br><br><br>
     
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width="41%" /></a>
