@@ -1,14 +1,11 @@
 <div align="center">
 
-    
+
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width=48% />
+    <img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" />
 </a>
 <a href="https://github.com/kayheypark/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" width=51% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayheypark&theme=react" width=98% />
+    <img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" />
 </a>
 
 
@@ -51,8 +48,16 @@
 
 ---
 
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayheypark&theme=react" width=100% />
+</a>
+
 <br><br><br>
 <a href="mailto:kayheypark@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
+
+
 </div>
