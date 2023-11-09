@@ -1,5 +1,9 @@
 <div align="center">
+    
 <br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KAYHEYPARK&fontSize=90" />
+<br><br><br>
+    
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kayheypark&theme=dark" width="41%" /></a>
 <a href="https://github.com/kayheypark/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kayheypark&theme=dark" width="37.2%" /></a>
 
@@ -9,15 +13,15 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FEFEFE?style=flat-square&logo=typescript&logoColor=3178C6"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-FEFEFE?style=flat-square&logo=jquery&logoColor=0769AD"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-FEFEFE?style=flat-square&logo=php&logoColor=CC6699"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-FEFEFE?style=flat-square&logo=styledcomponents&logoColor=DB7093"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/styled_components-FEFEFE?style=flat-square&logo=styledcomponents&logoColor=DB7093"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-FEFEFE?style=flat-square&logo=webpack&logoColor=#8DD6F9"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/npm-FEFEFE?style=flat-square&logo=npm&logoColor=CB3837"/></a>
 <br>
 
 ### Backend
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-FEFEFE?style=flat-square&logo=php&logoColor=777BB4"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Nodejs-FEFEFE?style=flat-square&logo=nodedotjs&logoColor=339933"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-FEFEFE?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-FEFEFE?style=flat-square&logo=nodedotjs&logoColor=339933"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-FEFEFE?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
 
 
 #### OS/Server
@@ -27,19 +31,21 @@
 
 #### RDBMS
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-FEFEFE?style=flat-square&logo=mysql&logoColor=4479A1"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftSqlServer-FEFEFE?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-FEFEFE?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/></a>
 
 
 #### Infra/Cloud
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/AzurePipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/AmazonAWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure_Pipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
 
 
 ### Tools
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-FEFEFE?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/intellijidea-FEFEFE?style=flat-square&logo=intellijidea&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-FEFEFE?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-FEFEFE?style=flat-square&logo=intellijidea&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/DBeaver-000000?style=flat-square&logo=&logoColor=000000"/></a>
+<br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-FEFEFE?style=flat-square&logo=slack&logoColor=4A154B"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-FEFEFE?style=flat-square&logo=notion&logoColor=000000"/></a>
 
 ---
 
