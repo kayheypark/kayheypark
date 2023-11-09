@@ -46,7 +46,7 @@
 <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayheypark&theme=react" width=100% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayheypark&theme=react" width=78.2% />
 </a>
 
 <br><br><br>
