@@ -11,6 +11,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-FEFEFE?style=flat-square&logo=php&logoColor=CC6699"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-FEFEFE?style=flat-square&logo=styledcomponents&logoColor=DB7093"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-FEFEFE?style=flat-square&logo=webpack&logoColor=#8DD6F9"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/npm-FEFEFE?style=flat-square&logo=npm&logoColor=CB3837"/></a>
 <br>
 
 ### Backend
@@ -19,8 +20,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-FEFEFE?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
 
 
-#### Server
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FEFEFE?style=flat-square&logo=linux&logoColor=FCC624"/></a>
+#### OS/Server
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux(CentOS)-FEFEFE?style=flat-square&logo=linux&logoColor=FCC624"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache-FEFEFE?style=flat-square&logo=apache&logoColor=D22128"/></a>
 
 
@@ -29,7 +30,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftSqlServer-FEFEFE?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/></a>
 
 
-#### Cloud
+#### Infra/Cloud
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AzurePipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AmazonAWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
 
@@ -49,9 +50,10 @@
 </a>
 
 <br><br><br>
-<a href="mailto:kayheypark@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a>
+
+<a href="//velog.io/@khpark"><img src="https://img.shields.io/badge/velog.io-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="//instagram.com/kay_hey_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:kayheypark@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 
 </div>
