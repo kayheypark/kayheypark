@@ -9,6 +9,7 @@
 
 ## Skills
 ### Frontend
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-FEFEFE?style=flat-square&logo=flutter&logoColor=61DAFB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-FEFEFE?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FEFEFE?style=flat-square&logo=typescript&logoColor=3178C6"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-FEFEFE?style=flat-square&logo=jquery&logoColor=0769AD"/></a>
@@ -21,12 +22,14 @@
 ### Backend
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-FEFEFE?style=flat-square&logo=php&logoColor=777BB4"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-FEFEFE?style=flat-square&logo=nodedotjs&logoColor=339933"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/python-FEFEFE?style=flat-square&logo=python&logoColor=777BB4"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-FEFEFE?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
 
 
 #### OS/Server
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux(CentOS)-FEFEFE?style=flat-square&logo=linux&logoColor=FCC624"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache-FEFEFE?style=flat-square&logo=apache&logoColor=D22128"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/nginx-FEFEFE?style=flat-square&logo=nginx&logoColor=458B41"/></a>
 
 
 #### RDBMS
@@ -34,11 +37,12 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-FEFEFE?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/></a>
 
 
-#### Infra/Cloud
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure_Pipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_EC2-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
+#### Infra/Cloud/CICD
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure_Pipelines-FEFEFE?style=flat-square&logo=rocket&logoColor=2560E0"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FEFEFE?style=flat-square&logo=amazon&logoColor=232F3E"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_EC2-FEFEFE?style=flat-square&logo=amazon&logoColor=232F3E"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-FEFEFE?style=flat-square&logo=cloudflare&logoColor=FCC624"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Github_Actions-FEFEFE?style=flat-square&logo=github&logoColor=232F3E"/></a>
 
 
 ### Tools
