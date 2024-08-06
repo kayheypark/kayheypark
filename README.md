@@ -37,6 +37,8 @@
 #### Infra/Cloud
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure_Pipelines-FEFEFE?style=flat-square&logo=azurepipelines&logoColor=2560E0"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon_EC2-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-FEFEFE?style=flat-square&logo=amazonaws&logoColor=232F3E"/></a>
 
 
 ### Tools
